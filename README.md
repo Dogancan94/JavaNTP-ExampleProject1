@@ -11,13 +11,16 @@ Bu proje aşağıdaki kavramların anlaşılması için oluşturulmuştur.
 Bununla birlikte bir java uygulamasında sınıfların ve nesnelerin nasıl kullanıldığını ve Java'daki veri türlerinin nasıl uygulandığına odaklanır.
 
 ## Talimatlar
-
+[README.md](README.md)
 ### Görev 1: Proje Kurulumu
 Bu projeyi forkladıktan sonra bilgisayarınıza klonlayın.
 
 ### Görev 2: Düzen kısmındaki sınıfları kodlayın.
+Company, Healthplan, Employee isminde 3 farklı sınıfı kodlayınız. 
+Her sınıf için constructor tanımlayınız.
 
 ### Görev 3: Uygulamadaki her sınıf değişkeni private olarak tanımlanmalı ve getter & setter metodları ile çağırılmalı.
+Encapsulation(Kapsülleme) mantığını uygulamalıyız.
 
 ### Düzen
 
